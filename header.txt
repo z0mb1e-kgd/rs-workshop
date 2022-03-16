@@ -1,2 +1,4 @@
 Some text
 Changes from master
+
+NEW CHANGES!!
