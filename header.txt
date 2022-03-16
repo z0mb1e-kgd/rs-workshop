@@ -2,3 +2,4 @@ Some text
 Changes from master
 
 NEW CHANGES!!
+Some other text
